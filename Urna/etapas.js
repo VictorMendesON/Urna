@@ -7,7 +7,7 @@ let etapas = [
                 numero: '13',
                 nome: 'Lula',
                 partido: 'PT',
-                vice: 'Cic',
+                vice: 'Geraldo Alckmin',
                 fotos: [
                     {url: 'Lula.jpg', legenda: 'Presidente'},
                     {url: 'Geraldo Alckmin.webp', legenda: 'Vice-Prefeito', small: true}
@@ -15,9 +15,9 @@ let etapas = [
             },
             {
                 numero: '22',
-                nome: 'Bolsonaro',
+                nome: ' Jair Bolsonaro',
                 partido: 'PL',
-                vice: 'Cic',
+                vice: 'Braga Netto',
                 fotos: [
                     {url: 'Bolsonaro.jpg', legenda: 'Presidente'},
                     {url: 'Braga Netto.jpeg', legenda: 'Vice-Prefeito', small: true}
@@ -29,10 +29,10 @@ let etapas = [
 
     {
         titulo: 'Governador',
-        numeros: 3,
+        numeros: 2,
         candidatos: [
             {
-                numero: '255',
+                numero: '25',
                 nome: 'Eduardo Paes',
                 partido: 'PSD',
                 fotos: [
@@ -41,7 +41,7 @@ let etapas = [
                 ]
             },
             {
-                numero: '223',
+                numero: '22',
                 nome: 'Claudio castro',
                 partido: 'PL',
                 fotos: [
